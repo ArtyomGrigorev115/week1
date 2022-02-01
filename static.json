@@ -1,7 +1,8 @@
 {
   "headers":{
     "/*":{
-      "X-Author":"artyomgrigorev115"
+      "X-Author":"artyomgrigorev115",
+      "Access-Control-Allow-Origin":"*"
     }
   }
 }
